@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&weight=700&size=30&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=HI%2C+I'M+NABIL;ARCH+LINUX+ENJOYER;WEB+DEV+%2B+TERMINAL+RICER;I+USE+ARCH+BTW)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,45:1F6FEB,100:58A6FF&section=header&animation=twinkling&fontColor=F0F6FC&fontSize=28&fontAlign=50&fontAlignY=42&text=(%C2%AF%60%C2%B7.%C2%B8%C2%B8.%C2%B7%C2%B4%C2%AF%60%C2%B7.%C2%B8%C2%B8.-%3E%20%CE%B7%CE%B1%F0%9D%90%81%CE%AF%C4%BB%20%3C-.%C2%B8%C2%B8.%C2%B7%C2%B4%C2%AF%60%C2%B7.%C2%B8%C2%B8.%C2%B7%C2%B4%C2%AF)" alt="profile wave header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,45:1F6FEB,100:58A6FF&section=header&animation=twinkling&fontColor=F0F6FC&fontSize=48&fontAlign=50&fontAlignY=42&text=%E5%87%A0%E5%8D%82%E4%B9%83%E4%B8%A8%E3%84%A5" alt="profile wave header" />
 
 </div>
 
