@@ -83,6 +83,4 @@ Halo, aku **Nabil**. Aku suka ngulik web development, Linux, terminal setup, dan
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=nabil-udah-kenyang&style=for-the-badge&color=1f6feb)
 
-`Thanks for visiting. Keep it simple, keep it sharp.`
-
 </div>
