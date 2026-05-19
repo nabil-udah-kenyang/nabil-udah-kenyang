@@ -1,8 +1,8 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Nabil;Arch+Linux+enjoyer;Web+developer+%2B+terminal+customizer;I+use+Arch+Btw)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&weight=700&size=30&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=HI%2C+I'M+NABIL;ARCH+LINUX+ENJOYER;WEB+DEV+%2B+TERMINAL+RICER;I+USE+ARCH+BTW)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,45:1F6FEB,100:8B949E&text=Nabil&fontColor=F0F6FC&fontAlign=50&fontAlignY=38&desc=nabil-udah-kenyang&descAlign=50&descAlignY=58" alt="Nabil profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,45:1F6FEB,100:58A6FF&text=NABIL&fontColor=F0F6FC&fontSize=52&fontAlign=50&fontAlignY=42&animation=twinkling" alt="NABIL profile header" />
 
 </div>
 
@@ -49,26 +49,30 @@ Halo, aku **Nabil**. Aku suka ngulik web development, Linux, terminal setup, dan
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/nabil-udah-kenyang/lazyvim-config-nabil">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabil-udah-kenyang&repo=lazyvim-config-nabil&theme=github_dark&hide_border=true" alt="lazyvim-config-nabil" />
-      </a>
+      <h3><a href="https://github.com/nabil-udah-kenyang/lazyvim-config-nabil">lazyvim-config-nabil</a></h3>
+      <p>Personal LazyVim configuration for a faster coding setup.</p>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+      <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
     </td>
     <td width="50%">
-      <a href="https://github.com/nabil-udah-kenyang/Nvchad-Configuration-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabil-udah-kenyang&repo=Nvchad-Configuration-&theme=github_dark&hide_border=true" alt="Nvchad Configuration" />
-      </a>
+      <h3><a href="https://github.com/nabil-udah-kenyang/Nvchad-Configuration-">Nvchad-Configuration</a></h3>
+      <p>Pre-configured NvChad setup for Neovim without starting from scratch.</p>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+      <img src="https://img.shields.io/badge/NvChad-111827?style=flat-square&logo=neovim&logoColor=57A143" alt="NvChad" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/nabil-udah-kenyang/starship-config-nabil">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabil-udah-kenyang&repo=starship-config-nabil&theme=github_dark&hide_border=true" alt="starship-config-nabil" />
-      </a>
+      <h3><a href="https://github.com/nabil-udah-kenyang/starship-config-nabil">starship-config-nabil</a></h3>
+      <p>Terminal prompt config with a clean look and quick shell context.</p>
+      <img src="https://img.shields.io/badge/Starship-DD0B78?style=flat-square&logo=starship&logoColor=white" alt="Starship" />
+      <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" alt="Zsh" />
     </td>
     <td width="50%">
-      <a href="https://github.com/nabil-udah-kenyang/MsLibrary-with-Payment-Gateway-and-Resend-email">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabil-udah-kenyang&repo=MsLibrary-with-Payment-Gateway-and-Resend-email&theme=github_dark&hide_border=true" alt="MsLibrary" />
-      </a>
+      <h3><a href="https://github.com/nabil-udah-kenyang/MsLibrary-with-Payment-Gateway-and-Resend-email">MsLibrary</a></h3>
+      <p>Digital library web app with payment gateway and email integration.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
     </td>
   </tr>
 </table>
@@ -79,8 +83,6 @@ Halo, aku **Nabil**. Aku suka ngulik web development, Linux, terminal setup, dan
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nabil-udah-kenyang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Nabil GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-udah-kenyang&layout=compact&theme=github_dark&hide_border=true" alt="Nabil top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nabil-udah-kenyang&theme=github-dark&hide_border=true&area=true" alt="Nabil contribution graph" />
 
 </div>
 
@@ -98,7 +100,7 @@ Cara pasang ricing GitHub profile:
 Perintah cepat dari folder ini:
 
 ```bash
-git remote add origin git@github.com:nabil-udah-kenyang/nabil-udah-kenyang.git
+git remote add origin https://github.com/nabil-udah-kenyang/nabil-udah-kenyang.git
 git add README.md
 git commit -m "Add profile README"
 git push -u origin main
@@ -107,7 +109,7 @@ git push -u origin main
 Kalau remote sudah pernah dibuat:
 
 ```bash
-git remote set-url origin git@github.com:nabil-udah-kenyang/nabil-udah-kenyang.git
+git remote set-url origin https://github.com/nabil-udah-kenyang/nabil-udah-kenyang.git
 git push -u origin main
 ```
 
