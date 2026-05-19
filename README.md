@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&weight=700&size=30&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=HI%2C+I'M+NABIL;ARCH+LINUX+ENJOYER;WEB+DEV+%2B+TERMINAL+RICER;I+USE+ARCH+BTW)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,45:1F6FEB,100:58A6FF&text=NABIL&fontColor=F0F6FC&fontSize=52&fontAlign=50&fontAlignY=42&animation=twinkling" alt="NABIL profile header" />
+<img src="./assets/nabil-logo.svg" alt="NABIL custom profile logo" />
 
 </div>
 
@@ -76,69 +76,6 @@ Halo, aku **Nabil**. Aku suka ngulik web development, Linux, terminal setup, dan
     </td>
   </tr>
 </table>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nabil-udah-kenyang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Nabil GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-udah-kenyang&layout=compact&theme=github_dark&hide_border=true" alt="Nabil top languages" />
-
-</div>
-
-<details>
-<summary><strong>Setup / Uninstall Profile README</strong></summary>
-
-Cara pasang ricing GitHub profile:
-
-1. Buat repository baru di GitHub dengan nama persis sama seperti username: `nabil-udah-kenyang`.
-2. Set repository sebagai **Public**.
-3. Upload file `README.md` ini ke repository tersebut.
-4. Commit dan push ke branch utama, misalnya `main`.
-5. Buka `https://github.com/nabil-udah-kenyang`, README akan tampil otomatis di halaman profile.
-
-Perintah cepat dari folder ini:
-
-```bash
-git remote add origin https://github.com/nabil-udah-kenyang/nabil-udah-kenyang.git
-git add README.md
-git commit -m "Add profile README"
-git push -u origin main
-```
-
-Kalau remote sudah pernah dibuat:
-
-```bash
-git remote set-url origin https://github.com/nabil-udah-kenyang/nabil-udah-kenyang.git
-git push -u origin main
-```
-
-## Uninstall / Lepas Ricing
-
-Ada beberapa pilihan untuk melepas config profile:
-
-1. Sembunyikan profile README sementara:
-
-```bash
-mv README.md README.backup.md
-git add README.md README.backup.md
-git commit -m "Hide profile README"
-git push
-```
-
-2. Hapus total dari profile:
-
-```bash
-git rm README.md
-git commit -m "Remove profile README"
-git push
-```
-
-3. Matikan lewat GitHub:
-
-Buka repository `nabil-udah-kenyang`, lalu ubah visibility ke **Private** atau hapus repository-nya. GitHub profile README akan hilang dari halaman utama profile.
-
-</details>
 
 ---
 
