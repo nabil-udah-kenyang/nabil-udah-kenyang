@@ -37,15 +37,13 @@ Halo, aku **Nabil**. Aku suka ngulik web development, Linux, terminal setup, dan
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
   <img src="https://img.shields.io/badge/NvChad-111827?style=for-the-badge&logo=neovim&logoColor=57A143" alt="NvChad" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" alt="Starship" />
-  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
+  <img src="https://img.shields.io/badge/Fish-34C534?style=for-the-badge&logo=fishshell&logoColor=white" alt="Fish" />
   <img src="https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal" />
-  <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Google Chrome" />
 </p>
 
 ## Featured Repositories
