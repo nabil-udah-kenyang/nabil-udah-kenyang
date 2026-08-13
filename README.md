@@ -22,8 +22,6 @@
 
 ##  GitHub Stats
 
-##  GitHub Stats
-
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=nabil-udah-kenyang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
