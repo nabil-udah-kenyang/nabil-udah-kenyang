@@ -22,18 +22,21 @@
 
 ##  GitHub Stats
 
+##  GitHub Stats
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nabil-udah-kenyang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=nabil-udah-kenyang&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
     height="180"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-udah-kenyang&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nabil-udah-kenyang&layout=compact&theme=github_dark&hide_border=true"
     height="180"
     alt="Top Languages"
   />
 </p>
+
 
 ##  Projects
 
