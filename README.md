@@ -3,7 +3,7 @@
   Nabil — web developer and Linux enthusiast
 
 > what_i_do
-  building web apps, learning backend, and customizing my coding setup
+  backend development, mobile apps with Flutter, and customizing my coding setup
 
 > daily_driver
   Arch Linux · Hyprland · Neovim
@@ -11,19 +11,27 @@
 
 ## about me
 
-Halo, aku **Nabil**. Aku suka membuat aplikasi web dengan PHP dan Laravel, belajar backend, serta mengatur lingkungan kerja coding supaya lebih nyaman dan produktif.
+Halo, aku **Nabil**, seorang **backend dan mobile developer**. Aku membangun aplikasi backend dengan PHP/Laravel dan aplikasi mobile dengan Flutter.
 
-Di luar web development, aku sering mengulik Linux, konfigurasi Neovim, terminal ricing, dan automasi kecil-kecilan.
+Di luar development, aku sering mengulik Linux, konfigurasi Neovim, terminal ricing, dan automasi kecil-kecilan.
 
-## focus map
+## programming languages i use
 
 ```text
-PHP          ●●●●●●●●●○   Laravel · Blade · MySQL
-HTML / CSS   ●●●●●●●●○○   Bootstrap · Tailwind · responsive UI
-JavaScript   ●●●●●●○○○○   web interaction · frontend basics
+PHP          ●●●●●●●●●○   backend development
+Dart         ●●●●●●●○○○   mobile development
+JavaScript   ●●●●●●○○○○   web interaction
 C++          ●●●●●○○○○○   programming fundamentals
-Lua          ●●●●●●●○○○   Neovim · LazyVim · NvChad
-Dart         ●●●●○○○○○○   Flutter · application experiments
+Lua          ●●●●●●●○○○   Neovim configuration
+HTML / CSS   ●●●●●●●●○○   web interfaces
 ```
 
-> visual map of my interests and tools — not automatic GitHub percentages.
+## frameworks i use
+
+```text
+Laravel      ●●●●●●●●●○   PHP backend · MVC · APIs
+Flutter      ●●●●●●●○○○   cross-platform mobile apps
+Bootstrap    ●●●●●●○○○○   responsive web interfaces
+Tailwind CSS ●●●●●●○○○○   utility-first styling
+Blade        ●●●●●●●○○○   Laravel templating
+```
